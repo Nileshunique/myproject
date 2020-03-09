@@ -18,5 +18,5 @@ git diff
 git reset --hard HEAD~1
 git reset --soft HEAD~1
 git remote -v
-git clone UrlOfGithubForkProject
+git clone Url_fGithubForkProject
 git remote --rm remoteName
