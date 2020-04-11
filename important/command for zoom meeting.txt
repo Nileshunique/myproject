@@ -1,0 +1,7 @@
+  sudo snap connect zoom-client:audio-record
+  sudo snap connect zoom-client:camera
+  sudo snap connect zoom-client:hardware-observe
+  sudo snap connect zoom-client:network-manager
+  sudo snap connect zoom-client:system-observe
+
+run this after installing the zoom application.
